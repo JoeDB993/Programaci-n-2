@@ -8,7 +8,7 @@ ave.Size = "Grande";
 ave.FamiliaAve.Nombre = "El pájaro";
 ave.FamiliaAve.Grupo = "Carpintero";
 ave.SexoBiologico = "Macho";
-ave.EsVoladora = true;
+ave.EsVoladora = false;
 ave.Imprimir();
 
 
